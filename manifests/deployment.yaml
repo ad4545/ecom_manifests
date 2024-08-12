@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: ad-stream-app
-        image: adkumar123/real-time-ad-stream:20
+        image: adkumar123/real-time-ad-stream:6
